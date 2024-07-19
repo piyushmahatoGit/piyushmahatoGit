@@ -13,7 +13,7 @@ I am a passionate web developer with a strong background in building dynamic and
 ### Frontend
 - **Languages**: HTML, CSS, JavaScript (ES6+)
 - **Frameworks/Libraries**: React.js, Redux
-- **Tools**: Webpack, Babel
+- **Tools**: Babel
 
 ### Backend
 - **Languages**: JavaScript (Node.js), Python, Java
