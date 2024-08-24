@@ -5,7 +5,7 @@
 ## About Me
 I am a passionate web developer with a strong background in building dynamic and responsive web applications using modern technologies. I specialize in both frontend and backend development, primarily working with React.js and Node.js.
 
-- 🌱 I’m currently learning Web3, blockchain and advance UI/UX.
+- 🌱 I’m currently learning Web3 DApps, blockchain and advance UI/UX.
 - 👯 I’m looking to collaborate on projects and innovative web applications.
 - ⚡ Fun fact: I am an artist.
 
