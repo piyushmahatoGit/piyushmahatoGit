@@ -3,16 +3,20 @@
 **Pronouns**:(He/Him)
 
 ## About Me
-I am a passionate web developer with a strong background in building dynamic and responsive web applications using modern technologies. I specialize in both frontend and backend development, primarily working with React.js and Node.js.
+A passionate UI/UX Designer having expertise in creating visually appealing and user-friendly interfaces that are more engaging. Strong knowledge in Design Principles  (Typography, Color Theory, Layout Design etc.) using Figma,  allowing me to create user friendly Interfaces efficiently.
+Eager to bring my creativity and problem-solving skills to a dynamic team, where I can grow and contribute to meaningful design experiences.
 
-- 🌱 I’m currently learning Web3 DApps, blockchain and advance UI/UX.
-- 👯 I’m looking to collaborate on projects and innovative web applications.
+- 🌱 I’m currently learning React and React Native.
+- 👯 I’m looking to collaborate on projects and innovative web and mobile applications.
 - ⚡ Fun fact: I am an artist.
 
 ## Skills
 ### Frontend
 - **Languages**: HTML, CSS, JavaScript (ES6+)
-- **Frameworks/Libraries**: React.js, Redux
+- **Frameworks/Libraries**: React.js, Redux, React Native
+
+### Softwares
+- **Figma**
 
 ### Backend
 - **Languages**: JavaScript (Node.js), Python, Java
@@ -26,8 +30,9 @@ I am a passionate web developer with a strong background in building dynamic and
 
 ### 📫 How to reach me ...
 - Email: piyushmahato30@gmail.com
-- Linkdin: [Linkdin](linkedin.com/in/piyushmahato)
-- Github: [Github](github.com/piyushmahatoGit)
+- Linkdin: [Linkdin](https://www.linkedin.com/in/piyushmahato)
+- Github: [Github](https://github.com/piyushmahatoGit)
+- Portfolio: [Portfolio](https://somber-hydrangea-741.notion.site/Piyush-Mahato-1bde6ab35d3a801bb527d21df833a033?pvs=4)
 
 
 <!---
